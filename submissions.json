@@ -8550,6 +8550,22 @@
     ],
     "timestamp": "Nov/13/2023 02:28"
   },
+  "CF68405745": {
+    "contest_id": 1004,
+    "language": "GNU C++17",
+    "path": "codeforces\\1004\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Sonya and Hotels",
+    "problem_url": "https://codeforces.com/contest/1004/problem/A",
+    "submission_id": "CF68405745",
+    "submission_url": "https://codeforces.com/contest/1004/submission/68405745",
+    "tags": [
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Jan/08/2020 20:50"
+  },
   "CF68405813": {
     "contest_id": 981,
     "language": "GNU C++17",
