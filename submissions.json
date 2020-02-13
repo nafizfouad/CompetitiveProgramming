@@ -8550,6 +8550,22 @@
     ],
     "timestamp": "Nov/13/2023 02:28"
   },
+  "CF71012973": {
+    "contest_id": 61,
+    "language": "GNU C++17",
+    "path": "codeforces\\61\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Ultra-Fast Mathematician",
+    "problem_url": "https://codeforces.com/contest/61/problem/A",
+    "submission_id": "CF71012973",
+    "submission_url": "https://codeforces.com/contest/61/submission/71012973",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Feb/13/2020 23:55"
+  },
   "CF71013570": {
     "contest_id": 285,
     "language": "GNU C++17",
