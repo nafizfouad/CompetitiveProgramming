@@ -8550,6 +8550,22 @@
     ],
     "timestamp": "Nov/13/2023 02:28"
   },
+  "CF71013828": {
+    "contest_id": 119,
+    "language": "GNU C++17",
+    "path": "codeforces\\119\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Epic Game",
+    "problem_url": "https://codeforces.com/contest/119/problem/A",
+    "submission_id": "CF71013828",
+    "submission_url": "https://codeforces.com/contest/119/submission/71013828",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Feb/14/2020 00:06"
+  },
   "CF71014514": {
     "contest_id": 469,
     "language": "GNU C++17",
