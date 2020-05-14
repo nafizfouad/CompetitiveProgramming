@@ -8550,6 +8550,22 @@
     ],
     "timestamp": "Nov/13/2023 02:28"
   },
+  "CF80162480": {
+    "contest_id": 599,
+    "language": "GNU C++17",
+    "path": "codeforces\\599\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Patrick and Shopping",
+    "problem_url": "https://codeforces.com/contest/599/problem/A",
+    "submission_id": "CF80162480",
+    "submission_url": "https://codeforces.com/contest/599/submission/80162480",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "May/14/2020 23:43"
+  },
   "CF80164088": {
     "contest_id": 1196,
     "language": "GNU C++17",
