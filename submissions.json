@@ -8550,6 +8550,22 @@
     ],
     "timestamp": "Nov/13/2023 02:28"
   },
+  "CF80939648": {
+    "contest_id": 124,
+    "language": "GNU C++17",
+    "path": "codeforces\\124\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "The number of positions",
+    "problem_url": "https://codeforces.com/contest/124/problem/A",
+    "submission_id": "CF80939648",
+    "submission_url": "https://codeforces.com/contest/124/submission/80939648",
+    "tags": [
+      "math",
+      "*1000"
+    ],
+    "timestamp": "May/22/2020 20:00"
+  },
   "CF80942515": {
     "contest_id": 279,
     "language": "GNU C++17",
