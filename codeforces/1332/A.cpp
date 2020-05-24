@@ -1,0 +1,27 @@
+#include<bits/stdc++.h>
+#define ll long long int
+using namespace std;
+int main()
+{
+    ll i,j,k,a,b,c,n,t,m,p,q,d,e,f,l,nl,np,x,y,x1,y2,y1,x2;
+    // vector<pair<ll,ll> > v;
+    vector<ll > s,vv,ss,v;
+    map<string,ll> ma,sa;
+    string st,et,ft,pt,ct;
+    deque<char> de;
+    ios_base::sync_with_stdio(false);
+    cin>>t;
+    for(i=1;i<=t;i++){
+      cin>>a>>b>>c>>d;
+      cin>>x>>y>>x1>>y1>>x2>>y2;
+      		x=x-a+b; y=y-c+d;
+		if (x>=x1&&x<=x2&&y>=y1&&y<=y2)
+			if (x1==x2&&a!=0) cout<<"no"<<endl;
+			else if (y1==y2&&c!=0) cout<<"no"<<endl;
+			else cout<<"yes"<<endl;
+		else {
+			cout<<"no"<<endl;
+		}
+    }
+
+}
