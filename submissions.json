@@ -8550,6 +8550,25 @@
     ],
     "timestamp": "Nov/13/2023 02:28"
   },
+  "CF82347068": {
+    "contest_id": 670,
+    "language": "GNU C++17",
+    "path": "codeforces\\670\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Holidays",
+    "problem_url": "https://codeforces.com/contest/670/problem/A",
+    "submission_id": "CF82347068",
+    "submission_url": "https://codeforces.com/contest/670/submission/82347068",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "*900"
+    ],
+    "timestamp": "Jun/03/2020 03:39"
+  },
   "CF82896314": {
     "contest_id": 733,
     "language": "GNU C++17",
