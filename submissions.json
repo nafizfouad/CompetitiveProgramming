@@ -8550,6 +8550,23 @@
     ],
     "timestamp": "Nov/13/2023 02:28"
   },
+  "CF90718872": {
+    "contest_id": 940,
+    "language": "GNU C++17",
+    "path": "codeforces\\940\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Our Tanya is Crying Out Loud",
+    "problem_url": "https://codeforces.com/contest/940/problem/B",
+    "submission_id": "CF90718872",
+    "submission_url": "https://codeforces.com/contest/940/submission/90718872",
+    "tags": [
+      "dp",
+      "greedy",
+      "*1400"
+    ],
+    "timestamp": "Aug/23/2020 04:33"
+  },
   "CF90719602": {
     "contest_id": 1167,
     "language": "GNU C++17",
