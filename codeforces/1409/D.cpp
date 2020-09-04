@@ -50,7 +50,6 @@ int main()
                     v[j]=0;
                     h = h+(d*m);
                     v[j+1]++;
-                    c++;
                     m = m*10;
                     if(v[j+1]==10)
                     {
@@ -63,7 +62,9 @@ int main()
                             if(j==v.size()-1){p = 1;break;}
                             v[j+1]++;
                         }
+                        c++;
                     }
+                    else c++;
                     if(c<=x)break;
                 }
             }
