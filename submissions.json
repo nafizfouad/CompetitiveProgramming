@@ -1,4 +1,23 @@
 {
+  "CF100305877": {
+    "contest_id": 702,
+    "language": "GNU C++17",
+    "path": "codeforces\\702\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Powers of Two",
+    "problem_url": "https://codeforces.com/contest/702/problem/B",
+    "submission_id": "CF100305877",
+    "submission_url": "https://codeforces.com/contest/702/submission/100305877",
+    "tags": [
+      "brute force",
+      "data structures",
+      "implementation",
+      "math",
+      "*1500"
+    ],
+    "timestamp": "Dec/04/2020 03:08"
+  },
   "CF100308098": {
     "contest_id": 991,
     "language": "GNU C++17",
