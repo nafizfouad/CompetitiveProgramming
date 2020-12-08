@@ -16,6 +16,7 @@ int main()
     priority_queue<ll, vector<ll>, greater<ll> > aq,tq,pq;
     string st,et,ft,pt,ct;
     deque<ll> de,pe,ne;
+    set<ll> sett;
     ios_base::sync_with_stdio(false);
     cin.tie(0);
     cout.tie(0);
@@ -24,23 +25,13 @@ int main()
     cin>>n>>m;
     for(i=0;i<n;i++){
         cin>>a;
-        ma[a] = 1;
-        v.pb(a);
+        sett.insert(a);
     }
     d = 0;
-    sort(v.begin(),v.end());
-    for(i=0;i<n;i++){
-        if(ma[v[i]]==1){
-            b = v[i];
-            c = 0;
-            while(ma[b]==1){
-                ma[b]--;
-                b = b*m;
-                c++;
-            }
-            d = d+(c/2);
-            if(c%2==1)d++;
-        }
+    if(m==1){cout<<n<<endl;return 0;}
+    for(auto a : sett){
+      d++;
+      sett.erase(a*m);
     }
     cout<<d<<endl;
     /// jeitar jotogula thakbe oita toto diye divide,then shob sum - kMFS
