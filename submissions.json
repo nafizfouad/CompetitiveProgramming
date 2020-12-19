@@ -1,4 +1,20 @@
 {
+  "AC18871024": {
+    "contest_id": "abc186",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc186\\B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Blocks on Grid",
+    "problem_url": "https://atcoder.jp/contests/abc186/tasks/abc186_b",
+    "submission_id": "AC18871024",
+    "submission_url": "https://atcoder.jp/contests/abc186/submissions/18871024",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Dec/19/2020 18:10"
+  },
   "AC18885375": {
     "contest_id": "abc186",
     "language": "C++ (GCC 9.2.1)",
