@@ -1,111 +1,122 @@
 #include<bits/stdc++.h>
-#include<algorithm>
-
-
-
 using namespace std;
-#define FAST ios::sync_with_stdio(0); cin.tie(0); cout.tie(0);
-
-#define PB(x, v) x.push_back(v);
-#define M_P(a, b) make_pair(a, b)
-#define pll pair<ll, ll>
-#define ll long long
-#define mll map<ll, ll>
-#define vl vector<ll>
-#define fa(x, v) for(auto x: v)
-#define fr(i, a, b) for(ll i= a;i <=b; i++)
-#define TEST  int test; cin >> test; while(test--)
-#define FTEST int TesT; cin >> TesT; for(int test = 1; test<=TesT; test++)
-
-#define B_ begin()
-#define E_ end()
-#define all(a) a.begin(), a.end()
-#define rall(a) a.rbegin(), a.rend()
-#define NL_ "\n"
-#define F first
-#define S second
-#define FF first.first
-#define FS first.second
-#define SF second.first
-#define SS second.second
-
-/*class Prime{
-    public:
-    int p[32000];
-    void Set(int n){int r= n%32;int e = n/32;int x = (1<<r);p[e]|=x;}
-    int get(int n){int r= n%32;int e = n/32;int x = (1<<r);return !(p[e]&x);}
-    Prime(){for(auto &x: p) x =0;Set(0), Set(1);for(int i =  2; i*i<=1000000; i++){if(get(i))for(int j = i*i; j<=1000000; j+=i)
-    Set(j);}}
-    Prime(vector<int> &prime){for(auto &x: p) x =0;Set(0), Set(1);for(int i =  2; i*i<=1000000; i++){if(get(i))for(int j = i*i; j<=1000000; j+=i)
-    Set(j);}for(int i= 3; i<=1000000; i++) if(get(i)) prime.push_back(i);}
-};*/
-template<typename item>
-item abs(item i)
-{
-    if(i < 0) i= -i;
-    return i;
-}
-#define MMOODD 1000000007
-template<class type>
-type POW(type b, type p)
-{
-    type res = 1;
-    while(p)
-    {
-        if(p&1) res*=b;
-        b*=b;
-        b%=MMOODD ;
-        res%=MMOODD ;
-
-        p/=2;
-    }
-    return res;
-}
-int tc =0;
-
-#define PI acos(-1);
-#define  ull unsigned long long
-
-#define pii pair<int, int>
-
-#define maxn 200000+10
-
-
-
+#define T top()
+#define E end()
+#define PS push
+#define Q queue
+#define PP pop()
+#define L0 (LL)0
+#define V vector
+#define ST stack
+#define FI first
+#define MAX 4e18
+#define MIN -MAX
+#define DQ deque
+#define SZ size()
+#define C clear()
+#define B begin()
+#define F front()
+#define SE second
+#define DL double
+#define G getline
+#define IN insert
+#define endl "\n"
+#define EM empty()
+#define cnn continue
+#define MD 1000000007
+#define PSB push_back
+#define PI acos(-1.00)
+#define PPB pop_back()
+#define PSF push_front
+#define ub upper_bound
+#define lb lower_bound
+#define PPF pop_front()
+#define line cout<<endl
+#define LL long long int
+#define one cout<<1<<endl
+#define zer cout<<0<<endl
+#define PQ priority_queue
+#define nil cout<<-1<<endl
+#define N cout<<"NO"<<endl
+#define Y cout<<"YES"<<endl
+#pragma GCC optimize("Ofast")
+#pragma GCC target("avx,avx2,fma")
+#define MAU cout<<"Case "<<mau<<": "
+#define SP(pre) fixed<<setprecision(pre)
+#pragma GCC optimization ("unroll-loops")
+#define __lcm(A1,A2) (A1/(__gcd(A1,A2)))*A2
+#define FAST ios_base::sync_with_stdio(false);cin.tie(NULL);cout.tie(NULL)
+#define file freopen("input.txt","r",stdin);freopen("output.txt","w",stdout)
+#define UOSMOY v.C;w.C;ww.C;uu.C;uo.C;vo.C;vu.C;ab.C;bc.C;cc.C;uuu.C;a.C;b.C;c.C;u.C
+V<LL>v;
+V<LL>w,ab,bc;
+set<LL>uo;
+map<LL,LL>ww,cc,u;
+V<pair<LL,LL> >uu,su;
+map<LL,V<LL> >uuu;
+map<pair<LL,LL>,LL> vo;
+map<pair<LL,LL>,LL> vu;
+map<LL,pair<LL,pair<LL,LL > > > vs;
+priority_queue<LL,V<LL>,greater<LL> > moy;
+LL dx[]= {-1,0,1,0,1,1,-1,-1};
+LL dy[]= {0,1,0,-1,-1,1,1,-1};
+LL dxx[]= {2,1,-1,-2,-2,-1,1,2};
+LL dyy[]= {1,2,2,1,-1,-2,-2,-1};
+LL dp[101][10001];
+LL ar[10][10];
 int main()
 {
+//  BRR;
+//  file;
     FAST;
-
-    int t;
-    cin>> t;
-    while(t--)
+    char ch;
+    string a,b,c;
+    DL x,y,d,e,f,g,h;
+    LL n,i,j,k,p,q,o,l,s,tt=1,m,t,z,aa,r=0;
+    cin>>tt;
+    for(LL mau=1; mau<=tt; mau++)
     {
-        bool ok = 1;
-
-        int c1, c2,c3;
-        cin >> c1 >> c2  >> c3;
-        int a1, a2, a3, a4, a5;
-        cin >> a1 >> a2 >> a3  >> a4 >> a5;
-        c1-=a1;
-        if(c1< 0) ok = 0;
-        c2-= a2;
-        if(c2 < 0) ok= 0;
-        c3-=a3;
-        if(c3< 0) ok = 0;
-        if(c1> 0)
-        {
-            a4-=c1;
-           if(a4 < 0) a4 =0;
-        }
-        if(c2 > 0)
-        {
-            a5-=c2;
-            if(a5< 0) a5 = 0;
-        }
-        if(a4+a5>c3) ok = 0;
-        if(ok) cout <<"YES\n";
-        else cout << "NO\n";
-
+        UOSMOY;
+       cin>>n>>m>>o;
+       cin>>p>>q>>r>>s>>t;
+       if(n<p)
+       {
+           N;
+           cnn;
+       }
+       if(m<q)
+       {
+           N;
+           cnn;
+       }
+       o-=r;
+       if(o<0)
+       {
+           N;
+       }
+       else
+       {
+           if(p+s>n+o)
+           {
+               N;
+           }
+           else
+           {
+               z=(n+o);
+               z-=(p+s);
+               o=min(o,z);
+               if(q+t>o+m)
+               {
+                   N;
+               }
+               else
+               {
+                   Y;
+               }
+           }
+       }
     }
-
+    return 0;
+    //IN
+    //AL
 }
