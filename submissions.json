@@ -1,4 +1,21 @@
 {
+  "CF102309626": {
+    "contest_id": 1468,
+    "language": "GNU C++14",
+    "path": "codeforces\\1468\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Berpizza",
+    "problem_url": "https://codeforces.com/contest/1468/problem/C",
+    "submission_id": "CF102309626",
+    "submission_url": "https://codeforces.com/contest/1468/submission/102309626",
+    "tags": [
+      "data structures",
+      "implementation",
+      "*1400"
+    ],
+    "timestamp": "Dec/25/2020 18:31"
+  },
   "CF102316882": {
     "contest_id": 1468,
     "language": "GNU C++14",
