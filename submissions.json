@@ -1,4 +1,20 @@
 {
+  "AC20914647": {
+    "contest_id": "abc195",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc195\\B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Many Oranges",
+    "problem_url": "https://atcoder.jp/contests/abc195/tasks/abc195_b",
+    "submission_id": "AC20914647",
+    "submission_url": "https://atcoder.jp/contests/abc195/submissions/20914647",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Mar/14/2021 04:32"
+  },
   "AC21171048": {
     "contest_id": "abc196",
     "language": "C++ (GCC 9.2.1)",
