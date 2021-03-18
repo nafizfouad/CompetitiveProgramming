@@ -38,7 +38,7 @@ int main()
         d =0;
         c =0;
         for(i=0;i+1<st.size();i++){
-            if(st[i]=='1' && st[i+1]=='1')c++;
+            if(st[i]=='1' & st[i+1]=='1')c++;
             if(c>0){
                 if(st[i]=='0' && st[i+1]=='0')d=1;
             }
