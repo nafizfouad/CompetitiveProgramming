@@ -52,7 +52,7 @@ int main()
         {
             a = (*it).first;
             b = (*it).second;
-            if(b>c){e = a,f=1;break;} ///half er cheye boro emon ekta nilam
+            if(b>c)e = a,f=1; ///half er cheye boro emon ekta nilam
         }
         /// f = 0 mane ektao half er boro nai
         if(f==0)
