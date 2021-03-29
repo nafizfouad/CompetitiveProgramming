@@ -1,4 +1,22 @@
 {
+  "CF111410691": {
+    "contest_id": 1295,
+    "language": "GNU C++17",
+    "path": "codeforces\\1295\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Obtain The String",
+    "problem_url": "https://codeforces.com/contest/1295/problem/C",
+    "submission_id": "CF111410691",
+    "submission_url": "https://codeforces.com/contest/1295/submission/111410691",
+    "tags": [
+      "dp",
+      "greedy",
+      "strings",
+      "*1600"
+    ],
+    "timestamp": "Mar/29/2021 23:57"
+  },
   "CF111481740": {
     "contest_id": 1165,
     "language": "GNU C++17",
