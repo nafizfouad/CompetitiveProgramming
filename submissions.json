@@ -1,4 +1,22 @@
 {
+  "CF111728827": {
+    "contest_id": 103,
+    "language": "GNU C++17",
+    "path": "codeforces\\103\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Cthulhu",
+    "problem_url": "https://codeforces.com/contest/103/problem/B",
+    "submission_id": "CF111728827",
+    "submission_url": "https://codeforces.com/contest/103/submission/111728827",
+    "tags": [
+      "dfs and similar",
+      "dsu",
+      "graphs",
+      "*1500"
+    ],
+    "timestamp": "Apr/01/2021 23:23"
+  },
   "CF111800052": {
     "contest_id": 735,
     "language": "GNU C++17",
