@@ -1,4 +1,21 @@
 {
+  "CF111816107": {
+    "contest_id": 1217,
+    "language": "GNU C++17",
+    "path": "codeforces\\1217\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Zmei Gorynich",
+    "problem_url": "https://codeforces.com/contest/1217/problem/B",
+    "submission_id": "CF111816107",
+    "submission_url": "https://codeforces.com/contest/1217/submission/111816107",
+    "tags": [
+      "greedy",
+      "math",
+      "*1600"
+    ],
+    "timestamp": "Apr/03/2021 01:09"
+  },
   "CF111902500": {
     "contest_id": 1504,
     "language": "GNU C++17",
