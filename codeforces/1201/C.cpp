@@ -38,18 +38,19 @@ int main()
         
         l = v[e];
         r = 2000000010;
-        while(l<=r){
-        m = (l+r)/2;
-         
+        while(l!=r){
+        m = (l+r+1)/2;
+            ma[m]++;
+            if(ma[m]>1)break;
             c = 0;
         for(i=e;i<n;i++){
         c = c+max(0LL,m-v[i]);
 }
             if(c>k)r = m-1;
-            else if(c<=k) l = m+1;
+            else if(c<=k) l = m;
             
     }
-        cout<<l-1<<endl;
+        cout<<l<<endl;
         v.clear();
     }
 }
