@@ -1,4 +1,22 @@
 {
+  "CF116054506": {
+    "contest_id": 1025,
+    "language": "GNU C++17",
+    "path": "codeforces\\1025\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Weakened Common Divisor",
+    "problem_url": "https://codeforces.com/contest/1025/problem/B",
+    "submission_id": "CF116054506",
+    "submission_url": "https://codeforces.com/contest/1025/submission/116054506",
+    "tags": [
+      "brute force",
+      "greedy",
+      "number theory",
+      "*1600"
+    ],
+    "timestamp": "May/13/2021 00:41"
+  },
   "CF116126108": {
     "contest_id": 678,
     "language": "GNU C++17",
