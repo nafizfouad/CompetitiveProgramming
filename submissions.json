@@ -1,4 +1,20 @@
 {
+  "CF116598166": {
+    "contest_id": 1082,
+    "language": "GNU C++17",
+    "path": "codeforces\\1082\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Vova and Trophies",
+    "problem_url": "https://codeforces.com/contest/1082/problem/B",
+    "submission_id": "CF116598166",
+    "submission_url": "https://codeforces.com/contest/1082/submission/116598166",
+    "tags": [
+      "greedy",
+      "*1600"
+    ],
+    "timestamp": "May/19/2021 01:07"
+  },
   "CF116601346": {
     "contest_id": 605,
     "language": "GNU C++17",
