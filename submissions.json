@@ -1,4 +1,21 @@
 {
+  "CF127632243": {
+    "contest_id": 1223,
+    "language": "GNU C++17",
+    "path": "codeforces\\1223\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Save the Nature",
+    "problem_url": "https://codeforces.com/contest/1223/problem/C",
+    "submission_id": "CF127632243",
+    "submission_url": "https://codeforces.com/contest/1223/submission/127632243",
+    "tags": [
+      "binary search",
+      "greedy",
+      "*1600"
+    ],
+    "timestamp": "Sep/01/2021 23:10"
+  },
   "CF128029775": {
     "contest_id": 1015,
     "language": "GNU C++17",
