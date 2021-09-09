@@ -1,4 +1,21 @@
 {
+  "CF128353355": {
+    "contest_id": 923,
+    "language": "GNU C++17",
+    "path": "codeforces\\923\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Producing Snow",
+    "problem_url": "https://codeforces.com/contest/923/problem/B",
+    "submission_id": "CF128353355",
+    "submission_url": "https://codeforces.com/contest/923/submission/128353355",
+    "tags": [
+      "binary search",
+      "data structures",
+      "*1600"
+    ],
+    "timestamp": "Sep/09/2021 20:23"
+  },
   "CF128367389": {
     "contest_id": 1148,
     "language": "GNU C++17",
