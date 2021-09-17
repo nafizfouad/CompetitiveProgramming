@@ -1,4 +1,20 @@
 {
+  "CF129107570": {
+    "contest_id": 1003,
+    "language": "GNU C++17",
+    "path": "codeforces\\1003\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Coins and Queries",
+    "problem_url": "https://codeforces.com/contest/1003/problem/D",
+    "submission_id": "CF129107570",
+    "submission_url": "https://codeforces.com/contest/1003/submission/129107570",
+    "tags": [
+      "greedy",
+      "*1600"
+    ],
+    "timestamp": "Sep/18/2021 02:07"
+  },
   "CF129676958": {
     "contest_id": 1077,
     "language": "GNU C++17",
