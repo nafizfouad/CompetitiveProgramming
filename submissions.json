@@ -1,4 +1,21 @@
 {
+  "CF130264176": {
+    "contest_id": 1579,
+    "language": "GNU C++17",
+    "path": "codeforces\\1579\\E2.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E2",
+    "problem_name": "Array Optimization by Deque",
+    "problem_url": "https://codeforces.com/contest/1579/problem/E2",
+    "submission_id": "CF130264176",
+    "submission_url": "https://codeforces.com/contest/1579/submission/130264176",
+    "tags": [
+      "data structures",
+      "greedy",
+      "*1700"
+    ],
+    "timestamp": "Sep/29/2021 18:37"
+  },
   "CF130568081": {
     "contest_id": 1575,
     "language": "GNU C++14",
