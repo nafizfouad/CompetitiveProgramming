@@ -1,4 +1,20 @@
 {
+  "AC26650748": {
+    "contest_id": "abc223",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc223\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Exact Price",
+    "problem_url": "https://atcoder.jp/contests/abc223/tasks/abc223_a",
+    "submission_id": "AC26650748",
+    "submission_url": "https://atcoder.jp/contests/abc223/submissions/26650748",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Oct/17/2021 19:30"
+  },
   "AC26652299": {
     "contest_id": "abc223",
     "language": "C++ (GCC 9.2.1)",
