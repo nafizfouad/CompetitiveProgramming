@@ -1,4 +1,20 @@
 {
+  "AC26723048": {
+    "contest_id": "abc046",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc046\\D.cpp",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "AtCoDeer and Rock-Paper",
+    "problem_url": "https://atcoder.jp/contests/abc046/tasks/arc062_b",
+    "submission_id": "AC26723048",
+    "submission_url": "https://atcoder.jp/contests/abc046/submissions/26723048",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Oct/21/2021 22:55"
+  },
   "AC26733505": {
     "contest_id": "abc047",
     "language": "C++ (GCC 9.2.1)",
