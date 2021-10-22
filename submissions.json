@@ -1,4 +1,20 @@
 {
+  "AC26733505": {
+    "contest_id": "abc047",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc047\\C.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "1D Reversi",
+    "problem_url": "https://atcoder.jp/contests/abc047/tasks/arc063_a",
+    "submission_id": "AC26733505",
+    "submission_url": "https://atcoder.jp/contests/abc047/submissions/26733505",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Oct/22/2021 18:43"
+  },
   "AC26733897": {
     "contest_id": "abc047",
     "language": "C++ (GCC 9.2.1)",
