@@ -1,4 +1,20 @@
 {
+  "AC26735213": {
+    "contest_id": "abc048",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc048\\C.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Boxes and Candies",
+    "problem_url": "https://atcoder.jp/contests/abc048/tasks/arc064_a",
+    "submission_id": "AC26735213",
+    "submission_url": "https://atcoder.jp/contests/abc048/submissions/26735213",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Oct/22/2021 20:12"
+  },
   "AC26737351": {
     "contest_id": "abc048",
     "language": "C++ (GCC 9.2.1)",
