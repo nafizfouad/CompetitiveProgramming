@@ -1,4 +1,20 @@
 {
+  "AC26733897": {
+    "contest_id": "abc047",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc047\\D.cpp",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "An Invisible Hand",
+    "problem_url": "https://atcoder.jp/contests/abc047/tasks/arc063_b",
+    "submission_id": "AC26733897",
+    "submission_url": "https://atcoder.jp/contests/abc047/submissions/26733897",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Oct/22/2021 19:04"
+  },
   "AC26735213": {
     "contest_id": "abc048",
     "language": "C++ (GCC 9.2.1)",
