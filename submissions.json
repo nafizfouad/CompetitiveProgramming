@@ -1,4 +1,22 @@
 {
+  "CF134701953": {
+    "contest_id": 1400,
+    "language": "GNU C++17",
+    "path": "codeforces\\1400\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "RPG Protagonist",
+    "problem_url": "https://codeforces.com/contest/1400/problem/B",
+    "submission_id": "CF134701953",
+    "submission_url": "https://codeforces.com/contest/1400/submission/134701953",
+    "tags": [
+      "brute force",
+      "greedy",
+      "math",
+      "*1700"
+    ],
+    "timestamp": "Nov/09/2021 01:41"
+  },
   "CF134786472": {
     "contest_id": 276,
     "language": "GNU C++17",
