@@ -1,4 +1,21 @@
 {
+  "CF136667849": {
+    "contest_id": 1612,
+    "language": "GNU C++17",
+    "path": "codeforces\\1612\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Chat Ban",
+    "problem_url": "https://codeforces.com/contest/1612/problem/C",
+    "submission_id": "CF136667849",
+    "submission_url": "https://codeforces.com/contest/1612/submission/136667849",
+    "tags": [
+      "binary search",
+      "math",
+      "*1300"
+    ],
+    "timestamp": "Nov/23/2021 22:31"
+  },
   "CF138121648": {
     "contest_id": 1268,
     "language": "GNU C++17",
