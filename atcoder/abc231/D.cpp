@@ -1,0 +1,99 @@
+;;    ;; ;;;;;;;; ;;    ;; ;;;;;;;;
+;;    ;; ;;       ;;    ;; ;;
+;;;;;;;; ;;;;;    ;;;;;;;; ;;;;;
+;;    ;; ;;       ;;    ;; ;;
+;;    ;; ;;;;;;;; ;;    ;; ;;;;;;;;
+#include <ext/pb_ds/assoc_container.hpp>
+#include <ext/pb_ds/tree_policy.hpp>
+#include<iostream>
+#include<vector>
+#include<map>
+#include<functional>
+#include<string>
+#include<queue>
+#include<set>
+#include<deque>
+#include<iomanip>
+#include<algorithm>
+#include<math.h>
+#include<list>
+#include<iterator>
+#define ll long long int
+#define ld long double
+#define pi acos(-1)
+#define pb push_back
+#define pf push_front
+#define fast ios_base::sync_with_stdio(false);cin.tie(0);cout.tie(0)
+using namespace __gnu_pbds;
+using namespace std;
+typedef tree<ll, null_type, less_equal<ll>, rb_tree_tag,
+        tree_order_statistics_node_update>
+        newset;
+
+
+
+ll i,j,a,k,b,c,n,t=1,m,p,q,d,e,f,y,g,z,h,r,l,x,u,o;
+ld aa,bb,ee,dd,ff,kk,gg,cc;
+vector<ll> v,s,vv[200005],hh;
+vector<pair<ll,ll> > ss,pp,rr;
+map<ll,ll> ta,pa,sa,ma;
+map<pair<ll,ll>,ll >se,me;
+map<ll,vector<ll> >he;
+priority_queue<ll,vector<ll>,greater<ll> > aq,tq,pq,nq,mq,xq;
+string st,et,ft,pt,ct;
+deque<char> de,ne;
+multiset<ll > li,si;
+newset see;
+
+//    freopen("input.txt", "r", stdin);
+//    freopen("output.txt", "w", stdout);
+
+ll id[100005];
+ll root(ll a)
+{
+    while(a!=id[a])
+    {
+        id[a] = id[id[a]];
+        a = id[a];
+    }
+    return a;
+}
+
+int main()
+{
+    fast;
+    // cin>>t;
+    p = 0;
+    while(t--)
+    {
+        cin>>n>>m;
+        for(i=0; i<m; i++)
+        {
+            cin>>a>>b;
+            ss.pb({a,b});
+            ma[a]++;
+            ma[b]++;
+            if(ma[a]>2 || ma[b]>2)f=1;
+        }
+        for(i=0;i<=n;i++)id[i] = i;
+        for(i=0;i<m;i++){
+            a = root(ss[i].first);
+            b = root(ss[i].second);
+            if(a==b){f=1;break;}
+            else{
+                id[a] = id[b];
+            }
+        }
+
+        if(f==0)cout<<"Yes"<<endl;
+        else cout<<"No"<<endl;
+    }
+}
+
+
+
+;;    ;; ;;;;;;;; ;;    ;; ;;;;;;;;
+;;    ;; ;;       ;;    ;; ;;
+;;;;;;;; ;;;;;    ;;;;;;;; ;;;;;
+;;    ;; ;;       ;;    ;; ;;
+;;    ;; ;;;;;;;; ;;    ;; ;;;;;;;;
