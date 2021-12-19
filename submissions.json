@@ -1,4 +1,20 @@
 {
+  "AC28003799": {
+    "contest_id": "abc232",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc232\\D.cpp",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Weak Takahashi",
+    "problem_url": "https://atcoder.jp/contests/abc232/tasks/abc232_d",
+    "submission_id": "AC28003799",
+    "submission_url": "https://atcoder.jp/contests/abc232/submissions/28003799",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Dec/19/2021 18:38"
+  },
   "AC28012250": {
     "contest_id": "abc232",
     "language": "C++ (GCC 9.2.1)",
