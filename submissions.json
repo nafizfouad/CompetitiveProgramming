@@ -1,4 +1,22 @@
 {
+  "CF152522023": {
+    "contest_id": 1178,
+    "language": "GNU C++17",
+    "path": "codeforces\\1178\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Tiles",
+    "problem_url": "https://codeforces.com/contest/1178/problem/C",
+    "submission_id": "CF152522023",
+    "submission_url": "https://codeforces.com/contest/1178/submission/152522023",
+    "tags": [
+      "combinatorics",
+      "greedy",
+      "math",
+      "*1300"
+    ],
+    "timestamp": "Apr/03/2022 02:06"
+  },
   "CF152522852": {
     "contest_id": 1476,
     "language": "GNU C++17",
