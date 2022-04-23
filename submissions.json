@@ -1,4 +1,20 @@
 {
+  "AC31192848": {
+    "contest_id": "abc249",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc249\\C.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Just K",
+    "problem_url": "https://atcoder.jp/contests/abc249/tasks/abc249_c",
+    "submission_id": "AC31192848",
+    "submission_url": "https://atcoder.jp/contests/abc249/submissions/31192848",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Apr/23/2022 18:34"
+  },
   "AC31518537": {
     "contest_id": "abc250",
     "language": "C++ (GCC 9.2.1)",
