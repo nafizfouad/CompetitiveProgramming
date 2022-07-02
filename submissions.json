@@ -1,4 +1,20 @@
 {
+  "AC32910330": {
+    "contest_id": "abc258",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc258\\B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Number Box",
+    "problem_url": "https://atcoder.jp/contests/abc258/tasks/abc258_b",
+    "submission_id": "AC32910330",
+    "submission_url": "https://atcoder.jp/contests/abc258/submissions/32910330",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Jul/02/2022 18:41"
+  },
   "AC32917182": {
     "contest_id": "abc258",
     "language": "C++ (GCC 9.2.1)",
