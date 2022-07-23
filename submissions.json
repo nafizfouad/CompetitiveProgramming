@@ -1,4 +1,23 @@
 {
+  "CF165411033": {
+    "contest_id": 253,
+    "language": "GNU C++17",
+    "path": "codeforces\\253\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Physics Practical",
+    "problem_url": "https://codeforces.com/contest/253/problem/B",
+    "submission_id": "CF165411033",
+    "submission_url": "https://codeforces.com/contest/253/submission/165411033",
+    "tags": [
+      "binary search",
+      "dp",
+      "sortings",
+      "two pointers",
+      "*1400"
+    ],
+    "timestamp": "Jul/23/2022 16:02"
+  },
   "CF165412717": {
     "contest_id": 1066,
     "language": "GNU C++17",
