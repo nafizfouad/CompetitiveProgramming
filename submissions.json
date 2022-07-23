@@ -1,4 +1,21 @@
 {
+  "CF165433380": {
+    "contest_id": 1214,
+    "language": "GNU C++17",
+    "path": "codeforces\\1214\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Optimal Currency Exchange",
+    "problem_url": "https://codeforces.com/contest/1214/problem/A",
+    "submission_id": "CF165433380",
+    "submission_url": "https://codeforces.com/contest/1214/submission/165433380",
+    "tags": [
+      "brute force",
+      "math",
+      "*1400"
+    ],
+    "timestamp": "Jul/23/2022 20:02"
+  },
   "CF165435684": {
     "contest_id": 920,
     "language": "GNU C++17",
