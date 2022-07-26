@@ -1,4 +1,22 @@
 {
+  "CF165778843": {
+    "contest_id": 337,
+    "language": "GNU C++17",
+    "path": "codeforces\\337\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Routine Problem",
+    "problem_url": "https://codeforces.com/contest/337/problem/B",
+    "submission_id": "CF165778843",
+    "submission_url": "https://codeforces.com/contest/337/submission/165778843",
+    "tags": [
+      "greedy",
+      "math",
+      "number theory",
+      "*1400"
+    ],
+    "timestamp": "Jul/26/2022 18:10"
+  },
   "CF166111197": {
     "contest_id": 710,
     "language": "GNU C++17",
