@@ -1,4 +1,20 @@
 {
+  "CF166115021": {
+    "contest_id": 719,
+    "language": "GNU C++17",
+    "path": "codeforces\\719\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Anatoly and Cockroaches",
+    "problem_url": "https://codeforces.com/contest/719/problem/B",
+    "submission_id": "CF166115021",
+    "submission_url": "https://codeforces.com/contest/719/submission/166115021",
+    "tags": [
+      "greedy",
+      "*1400"
+    ],
+    "timestamp": "Jul/29/2022 18:49"
+  },
   "CF166125088": {
     "contest_id": 548,
     "language": "GNU C++17",
