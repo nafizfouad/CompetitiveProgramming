@@ -1,4 +1,20 @@
 {
+  "CF166154642": {
+    "contest_id": 81,
+    "language": "GNU C++17",
+    "path": "codeforces\\81\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Plug-in",
+    "problem_url": "https://codeforces.com/contest/81/problem/A",
+    "submission_id": "CF166154642",
+    "submission_url": "https://codeforces.com/contest/81/submission/166154642",
+    "tags": [
+      "implementation",
+      "*1400"
+    ],
+    "timestamp": "Jul/30/2022 00:29"
+  },
   "CF166158418": {
     "contest_id": 1679,
     "language": "GNU C++17",
