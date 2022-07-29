@@ -1,4 +1,21 @@
 {
+  "CF166111197": {
+    "contest_id": 710,
+    "language": "GNU C++17",
+    "path": "codeforces\\710\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Optimal Point on a Line",
+    "problem_url": "https://codeforces.com/contest/710/problem/B",
+    "submission_id": "CF166111197",
+    "submission_url": "https://codeforces.com/contest/710/submission/166111197",
+    "tags": [
+      "brute force",
+      "sortings",
+      "*1400"
+    ],
+    "timestamp": "Jul/29/2022 18:13"
+  },
   "CF166115021": {
     "contest_id": 719,
     "language": "GNU C++17",
