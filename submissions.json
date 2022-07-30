@@ -1,4 +1,21 @@
 {
+  "CF166245534": {
+    "contest_id": 358,
+    "language": "GNU C++17",
+    "path": "codeforces\\358\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Dima and Continuous Line",
+    "problem_url": "https://codeforces.com/contest/358/problem/A",
+    "submission_id": "CF166245534",
+    "submission_url": "https://codeforces.com/contest/358/submission/166245534",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*1400"
+    ],
+    "timestamp": "Jul/30/2022 22:02"
+  },
   "CF166247637": {
     "contest_id": 581,
     "language": "GNU C++17",
