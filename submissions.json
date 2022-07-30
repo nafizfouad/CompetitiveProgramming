@@ -1,4 +1,22 @@
 {
+  "CF166247637": {
+    "contest_id": 581,
+    "language": "GNU C++17",
+    "path": "codeforces\\581\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Developing Skills",
+    "problem_url": "https://codeforces.com/contest/581/problem/C",
+    "submission_id": "CF166247637",
+    "submission_url": "https://codeforces.com/contest/581/submission/166247637",
+    "tags": [
+      "implementation",
+      "math",
+      "sortings",
+      "*1400"
+    ],
+    "timestamp": "Jul/30/2022 22:23"
+  },
   "CF166249938": {
     "contest_id": 1004,
     "language": "GNU C++17",
