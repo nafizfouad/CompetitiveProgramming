@@ -1,4 +1,21 @@
 {
+  "CF185391589": {
+    "contest_id": 601,
+    "language": "GNU C++14",
+    "path": "codeforces\\601\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "The Two Routes",
+    "problem_url": "https://codeforces.com/contest/601/problem/A",
+    "submission_id": "CF185391589",
+    "submission_url": "https://codeforces.com/contest/601/submission/185391589",
+    "tags": [
+      "graphs",
+      "shortest paths",
+      "*1600"
+    ],
+    "timestamp": "Dec/16/2022 02:27"
+  },
   "CF187555329": {
     "contest_id": 1539,
     "language": "GNU C++14",
