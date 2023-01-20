@@ -1,4 +1,25 @@
 {
+  "CF189864338": {
+    "contest_id": 1730,
+    "language": "GNU C++14",
+    "path": "codeforces\\1730\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Meeting on the Line",
+    "problem_url": "https://codeforces.com/contest/1730/problem/B",
+    "submission_id": "CF189864338",
+    "submission_url": "https://codeforces.com/contest/1730/submission/189864338",
+    "tags": [
+      "binary search",
+      "geometry",
+      "greedy",
+      "implementation",
+      "math",
+      "ternary search",
+      "*1600"
+    ],
+    "timestamp": "Jan/20/2023 22:37"
+  },
   "CF189869316": {
     "contest_id": 763,
     "language": "GNU C++14",
