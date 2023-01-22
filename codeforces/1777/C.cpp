@@ -1,7 +1,7 @@
 #include<bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>
 #include <ext/pb_ds/tree_policy.hpp>
-#define ll int
+#define ll long long int
 #define ld long double
 #define pi acos(-1)
 #define pb push_back
@@ -61,7 +61,7 @@ int main()
             }
         }
         k = 0;
-        d = 1e8;
+        d = 1e18;
         for(i=0; i<v.size(); i++)
         {
             for(j=0; j<s[v[i]].size(); j++)
@@ -82,7 +82,7 @@ int main()
                 }
             }
         }
-        if(d==1e8)d=-1;
+        if(d==1e18)d=-1;
         cout<<d<<endl;
         ma.clear();
         for(i=0;i<v.size();i++){
