@@ -1,4 +1,21 @@
 {
+  "CF191260399": {
+    "contest_id": 1753,
+    "language": "GNU C++14",
+    "path": "codeforces\\1753\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Factorial Divisibility",
+    "problem_url": "https://codeforces.com/contest/1753/problem/B",
+    "submission_id": "CF191260399",
+    "submission_url": "https://codeforces.com/contest/1753/submission/191260399",
+    "tags": [
+      "math",
+      "number theory",
+      "*1600"
+    ],
+    "timestamp": "Jan/30/2023 20:07"
+  },
   "CF191261034": {
     "contest_id": 1792,
     "language": "GNU C++14",
