@@ -1,4 +1,21 @@
 {
+  "CF192318548": {
+    "contest_id": 1786,
+    "language": "GNU C++14",
+    "path": "codeforces\\1786\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Cake Assembly Line",
+    "problem_url": "https://codeforces.com/contest/1786/problem/B",
+    "submission_id": "CF192318548",
+    "submission_url": "https://codeforces.com/contest/1786/submission/192318548",
+    "tags": [
+      "brute force",
+      "sortings",
+      "*1300"
+    ],
+    "timestamp": "Feb/05/2023 19:19"
+  },
   "CF192338769": {
     "contest_id": 1786,
     "language": "GNU C++14",
