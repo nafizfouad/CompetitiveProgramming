@@ -1,4 +1,22 @@
 {
+  "CF192753354": {
+    "contest_id": 1791,
+    "language": "GNU C++14",
+    "path": "codeforces\\1791\\F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Range Update Point Query",
+    "problem_url": "https://codeforces.com/contest/1791/problem/F",
+    "submission_id": "CF192753354",
+    "submission_url": "https://codeforces.com/contest/1791/submission/192753354",
+    "tags": [
+      "binary search",
+      "brute force",
+      "data structures",
+      "*1500"
+    ],
+    "timestamp": "Feb/08/2023 21:06"
+  },
   "CF192874421": {
     "contest_id": 1788,
     "language": "GNU C++14",
