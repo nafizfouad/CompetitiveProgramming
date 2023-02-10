@@ -1,4 +1,22 @@
 {
+  "CF193100200": {
+    "contest_id": 1689,
+    "language": "GNU C++14",
+    "path": "codeforces\\1689\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Infected Tree",
+    "problem_url": "https://codeforces.com/contest/1689/problem/C",
+    "submission_id": "CF193100200",
+    "submission_url": "https://codeforces.com/contest/1689/submission/193100200",
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "trees",
+      "*1600"
+    ],
+    "timestamp": "Feb/11/2023 00:09"
+  },
   "CF193351105": {
     "contest_id": 1793,
     "language": "GNU C++14",
