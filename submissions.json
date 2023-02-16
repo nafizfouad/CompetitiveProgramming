@@ -1,4 +1,22 @@
 {
+  "CF193845419": {
+    "contest_id": 1795,
+    "language": "GNU C++14",
+    "path": "codeforces\\1795\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Ideal Point",
+    "problem_url": "https://codeforces.com/contest/1795/problem/B",
+    "submission_id": "CF193845419",
+    "submission_url": "https://codeforces.com/contest/1795/submission/193845419",
+    "tags": [
+      "brute force",
+      "geometry",
+      "greedy",
+      "*900"
+    ],
+    "timestamp": "Feb/16/2023 20:46"
+  },
   "CF193891480": {
     "contest_id": 1795,
     "language": "GNU C++14",
