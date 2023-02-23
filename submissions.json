@@ -1,4 +1,21 @@
 {
+  "CF194682096": {
+    "contest_id": 1795,
+    "language": "GNU C++14",
+    "path": "codeforces\\1795\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Triangle Coloring",
+    "problem_url": "https://codeforces.com/contest/1795/problem/D",
+    "submission_id": "CF194682096",
+    "submission_url": "https://codeforces.com/contest/1795/submission/194682096",
+    "tags": [
+      "combinatorics",
+      "math",
+      "*1600"
+    ],
+    "timestamp": "Feb/23/2023 19:55"
+  },
   "CF194712880": {
     "contest_id": 1722,
     "language": "GNU C++14",
