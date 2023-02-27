@@ -52,7 +52,7 @@ int main()
         {
             l = 0;
             o =0;
-            while(o<=50)
+            while(1)
             {
                 x = 0;
                 o++;
