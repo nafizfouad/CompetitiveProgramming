@@ -1,4 +1,23 @@
 {
+  "CF195725547": {
+    "contest_id": 1799,
+    "language": "GNU C++17",
+    "path": "codeforces\\1799\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Equalize by Divide",
+    "problem_url": "https://codeforces.com/contest/1799/problem/B",
+    "submission_id": "CF195725547",
+    "submission_url": "https://codeforces.com/contest/1799/submission/195725547",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "*1200"
+    ],
+    "timestamp": "Mar/03/2023 01:27"
+  },
   "CF195728300": {
     "contest_id": 835,
     "language": "GNU C++17",
