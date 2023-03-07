@@ -1,4 +1,22 @@
 {
+  "CF196389848": {
+    "contest_id": 616,
+    "language": "GNU C++17",
+    "path": "codeforces\\616\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Longest k-Good Segment",
+    "problem_url": "https://codeforces.com/contest/616/problem/D",
+    "submission_id": "CF196389848",
+    "submission_url": "https://codeforces.com/contest/616/submission/196389848",
+    "tags": [
+      "binary search",
+      "data structures",
+      "two pointers",
+      "*1600"
+    ],
+    "timestamp": "Mar/07/2023 19:37"
+  },
   "CF197082235": {
     "contest_id": 1804,
     "language": "GNU C++17",
