@@ -1,4 +1,22 @@
 {
+  "CF197995377": {
+    "contest_id": 1165,
+    "language": "GNU C++17",
+    "path": "codeforces\\1165\\E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Two Arrays and Sum of Functions",
+    "problem_url": "https://codeforces.com/contest/1165/problem/E",
+    "submission_id": "CF197995377",
+    "submission_url": "https://codeforces.com/contest/1165/submission/197995377",
+    "tags": [
+      "greedy",
+      "math",
+      "sortings",
+      "*1600"
+    ],
+    "timestamp": "Mar/18/2023 22:55"
+  },
   "CF197998295": {
     "contest_id": 1029,
     "language": "GNU C++17",
