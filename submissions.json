@@ -1,4 +1,22 @@
 {
+  "CF198137211": {
+    "contest_id": 1807,
+    "language": "GNU C++17",
+    "path": "codeforces\\1807\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Find and Replace",
+    "problem_url": "https://codeforces.com/contest/1807/problem/C",
+    "submission_id": "CF198137211",
+    "submission_url": "https://codeforces.com/contest/1807/submission/198137211",
+    "tags": [
+      "greedy",
+      "implementation",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Mar/19/2023 21:03"
+  },
   "CF198145233": {
     "contest_id": 1807,
     "language": "GNU C++17",
