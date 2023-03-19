@@ -1,4 +1,20 @@
 {
+  "AC39847228": {
+    "contest_id": "abc294",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc294\\B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "ASCII Art",
+    "problem_url": "https://atcoder.jp/contests/abc294/tasks/abc294_b",
+    "submission_id": "AC39847228",
+    "submission_url": "https://atcoder.jp/contests/abc294/submissions/39847228",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Mar/19/2023 18:05"
+  },
   "AC39850907": {
     "contest_id": "abc294",
     "language": "C++ (GCC 9.2.1)",
