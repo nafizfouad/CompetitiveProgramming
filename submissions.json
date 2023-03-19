@@ -1,4 +1,20 @@
 {
+  "AC39842374": {
+    "contest_id": "abc294",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc294\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Filter",
+    "problem_url": "https://atcoder.jp/contests/abc294/tasks/abc294_a",
+    "submission_id": "AC39842374",
+    "submission_url": "https://atcoder.jp/contests/abc294/submissions/39842374",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Mar/19/2023 18:01"
+  },
   "AC39847228": {
     "contest_id": "abc294",
     "language": "C++ (GCC 9.2.1)",
