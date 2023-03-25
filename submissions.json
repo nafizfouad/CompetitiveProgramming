@@ -1,4 +1,20 @@
 {
+  "AC40029545": {
+    "contest_id": "abc295",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc295\\B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Bombs",
+    "problem_url": "https://atcoder.jp/contests/abc295/tasks/abc295_b",
+    "submission_id": "AC40029545",
+    "submission_url": "https://atcoder.jp/contests/abc295/submissions/40029545",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Mar/25/2023 18:10"
+  },
   "AC40031124": {
     "contest_id": "abc295",
     "language": "C++ (GCC 9.2.1)",
