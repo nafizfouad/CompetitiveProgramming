@@ -1,0 +1,76 @@
+#include<bits/stdc++.h>
+#include <ext/pb_ds/assoc_container.hpp>
+#include <ext/pb_ds/tree_policy.hpp>
+#define ll long long int
+#define ld long double
+#define pi acos(-1)
+#define pb push_back
+#define pf push_front
+//#define endl '\n'
+#define MAXN 200006
+#define mod 998244353
+#define fast ios_base::sync_with_stdio(false);cin.tie(0);cout.tie(0)
+#pragma GCC optimize("O3,Ofast,unroll-loops")
+#pragma GCC target("avx2,bmi,bmi2,lzcnt,popcnt,tune=native")
+using namespace std;
+using namespace __gnu_pbds;
+typedef tree<ll, null_type, less<ll>, rb_tree_tag,
+        tree_order_statistics_node_update>
+        newset;
+ll i,j,a,k,b,c,n,t=1,m,p,q,d,e,f,y,z,h,r,l,x,u,o,w,g;
+ld aa,bb,ee,dd,ff,kk,gg,cc;
+vector<ll > s,hh,vv,v;
+vector< pair<pair<ll,ll>,ll> > pp,ss;
+map<char,ll > ta,pa,sa,ma;
+map<pair<ll,ll>,ll >se,me;
+priority_queue<ll, vector<ll>, greater<ll> > aq,tq,pq,nq,mq,xq;
+string st,et,ft,pt,ct;
+deque<ll> de,ne;
+set<ll > li,si;
+
+//    freopen("input.txt", "r", stdin);
+//    freopen("output.txt", "w", stdout);
+
+int main()
+{
+    fast;
+
+    cin>>t;
+
+    while(t--)
+    {
+        cin>>n>>m;
+        d = -1e18;
+        for(i=0;i<n;i++){
+            cin>>a;
+            si.insert(a);
+        }
+        for(i=0;i<m;i++){
+             cin>>a>>b>>c;
+             auto it = si.lower_bound(b);
+             p = 1e18;
+             q = 1e18;
+             if(it==si.end()){
+                --it;
+                d = (*it);
+                 p = ((b-d)*(b-d))-(4*a*c);
+             }
+             else if(it==si.begin()){
+                 d = (*it);
+                 p = ((b-d)*(b-d))-(4*a*c);
+             }
+             else{
+                d = (*it);
+                 p = ((b-d)*(b-d))-(4*a*c);
+                 it--;
+                 e = (*it);
+                 q = ((b-e)*(b-e))-(4*a*c);
+             }
+             if(p<0){cout<<"YES"<<endl;cout<<d<<endl;}
+             else if(q<0){cout<<"YES"<<endl;cout<<e<<endl;}
+             else cout<<"NO"<<endl;
+        }
+        si.clear();
+    }
+
+}
