@@ -1,4 +1,21 @@
 {
+  "CF201217813": {
+    "contest_id": 992,
+    "language": "GNU C++17",
+    "path": "codeforces\\992\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Nastya Studies Informatics",
+    "problem_url": "https://codeforces.com/contest/992/problem/B",
+    "submission_id": "CF201217813",
+    "submission_url": "https://codeforces.com/contest/992/submission/201217813",
+    "tags": [
+      "math",
+      "number theory",
+      "*1600"
+    ],
+    "timestamp": "Apr/08/2023 12:14"
+  },
   "CF201278081": {
     "contest_id": 1797,
     "language": "GNU C++17",
