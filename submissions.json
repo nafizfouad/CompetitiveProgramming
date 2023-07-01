@@ -1,4 +1,20 @@
 {
+  "AC43088620": {
+    "contest_id": "abc308",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc308\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "New Scheme",
+    "problem_url": "https://atcoder.jp/contests/abc308/tasks/abc308_a",
+    "submission_id": "AC43088620",
+    "submission_url": "https://atcoder.jp/contests/abc308/submissions/43088620",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Jul/01/2023 18:02"
+  },
   "AC43097332": {
     "contest_id": "abc308",
     "language": "C++ (GCC 9.2.1)",
