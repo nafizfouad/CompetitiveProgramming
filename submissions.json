@@ -1,4 +1,20 @@
 {
+  "AC43382425": {
+    "contest_id": "abc309",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc309\\E.cpp",
+    "platform": "AtCoder",
+    "problem_index": "E",
+    "problem_name": "Family and Insurance",
+    "problem_url": "https://atcoder.jp/contests/abc309/tasks/abc309_e",
+    "submission_id": "AC43382425",
+    "submission_url": "https://atcoder.jp/contests/abc309/submissions/43382425",
+    "tags": [
+      "AtCoder",
+      "*425"
+    ],
+    "timestamp": "Jul/08/2023 19:20"
+  },
   "AC44488432": {
     "contest_id": "abc314",
     "language": "C++ 20 (gcc 12.2)",
