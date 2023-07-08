@@ -1,4 +1,20 @@
 {
+  "AC43361817": {
+    "contest_id": "abc309",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc309\\C.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Medicine",
+    "problem_url": "https://atcoder.jp/contests/abc309/tasks/abc309_c",
+    "submission_id": "AC43361817",
+    "submission_url": "https://atcoder.jp/contests/abc309/submissions/43361817",
+    "tags": [
+      "AtCoder",
+      "*350"
+    ],
+    "timestamp": "Jul/08/2023 18:31"
+  },
   "AC43374144": {
     "contest_id": "abc309",
     "language": "C++ (GCC 9.2.1)",
