@@ -1,4 +1,20 @@
 {
+  "AC43374144": {
+    "contest_id": "abc309",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc309\\D.cpp",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Add One Edge",
+    "problem_url": "https://atcoder.jp/contests/abc309/tasks/abc309_d",
+    "submission_id": "AC43374144",
+    "submission_url": "https://atcoder.jp/contests/abc309/submissions/43374144",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Jul/08/2023 18:57"
+  },
   "AC43382425": {
     "contest_id": "abc309",
     "language": "C++ (GCC 9.2.1)",
