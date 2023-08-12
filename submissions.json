@@ -1,4 +1,20 @@
 {
+  "AC44504193": {
+    "contest_id": "abc314",
+    "language": "C++ 20 (gcc 12.2)",
+    "path": "atcoder\\abc314\\C.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Rotate Colored Subsequence",
+    "problem_url": "https://atcoder.jp/contests/abc314/tasks/abc314_c",
+    "submission_id": "AC44504193",
+    "submission_url": "https://atcoder.jp/contests/abc314/submissions/44504193",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Aug/12/2023 18:22"
+  },
   "AC44511884": {
     "contest_id": "abc314",
     "language": "C++ 20 (gcc 12.2)",
