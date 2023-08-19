@@ -1,4 +1,20 @@
 {
+  "AC44721527": {
+    "contest_id": "abc315",
+    "language": "C++ 20 (gcc 12.2)",
+    "path": "atcoder\\abc315\\C.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Flavors",
+    "problem_url": "https://atcoder.jp/contests/abc315/tasks/abc315_c",
+    "submission_id": "AC44721527",
+    "submission_url": "https://atcoder.jp/contests/abc315/submissions/44721527",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Aug/19/2023 18:13"
+  },
   "AC47452343": {
     "contest_id": "abc328",
     "language": "C++ 20 (gcc 12.2)",
