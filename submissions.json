@@ -1,4 +1,20 @@
 {
+  "AC44714812": {
+    "contest_id": "abc315",
+    "language": "C++ 20 (gcc 12.2)",
+    "path": "atcoder\\abc315\\B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "The Middle Day",
+    "problem_url": "https://atcoder.jp/contests/abc315/tasks/abc315_b",
+    "submission_id": "AC44714812",
+    "submission_url": "https://atcoder.jp/contests/abc315/submissions/44714812",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Aug/19/2023 18:05"
+  },
   "AC44721527": {
     "contest_id": "abc315",
     "language": "C++ 20 (gcc 12.2)",
