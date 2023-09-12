@@ -1,4 +1,19 @@
 {
+  "CF223123358": {
+    "contest_id": 690,
+    "language": "GNU C++17",
+    "path": "codeforces\\690\\F1.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F1",
+    "problem_name": "Tree of Life (easy)",
+    "problem_url": "https://codeforces.com/contest/690/problem/F1",
+    "submission_id": "CF223123358",
+    "submission_url": "https://codeforces.com/contest/690/submission/223123358",
+    "tags": [
+      "*1300"
+    ],
+    "timestamp": "Sep/12/2023 23:41"
+  },
   "CF223232230": {
     "contest_id": 478,
     "language": "GNU C++17",
