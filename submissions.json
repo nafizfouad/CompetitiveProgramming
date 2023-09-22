@@ -1,4 +1,25 @@
 {
+  "CF224678044": {
+    "contest_id": 1873,
+    "language": "GNU C++17",
+    "path": "codeforces\\1873\\H.cpp",
+    "platform": "Codeforces",
+    "problem_index": "H",
+    "problem_name": "Mad City",
+    "problem_url": "https://codeforces.com/contest/1873/problem/H",
+    "submission_id": "CF224678044",
+    "submission_url": "https://codeforces.com/contest/1873/submission/224678044",
+    "tags": [
+      "dfs and similar",
+      "dsu",
+      "games",
+      "graphs",
+      "shortest paths",
+      "trees",
+      "*1700"
+    ],
+    "timestamp": "Sep/23/2023 05:21"
+  },
   "CF224812406": {
     "contest_id": 632,
     "language": "GNU C++17",
