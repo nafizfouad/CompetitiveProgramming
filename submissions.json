@@ -1,4 +1,22 @@
 {
+  "CF225841539": {
+    "contest_id": 1826,
+    "language": "GNU C++17",
+    "path": "codeforces\\1826\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Running Miles",
+    "problem_url": "https://codeforces.com/contest/1826/problem/D",
+    "submission_id": "CF225841539",
+    "submission_url": "https://codeforces.com/contest/1826/submission/225841539",
+    "tags": [
+      "brute force",
+      "dp",
+      "greedy",
+      "*1700"
+    ],
+    "timestamp": "Sep/30/2023 07:55"
+  },
   "CF226224154": {
     "contest_id": 1878,
     "language": "GNU C++17",
