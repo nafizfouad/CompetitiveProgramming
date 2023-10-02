@@ -1,4 +1,20 @@
 {
+  "CF226340555": {
+    "contest_id": 1256,
+    "language": "GNU C++17",
+    "path": "codeforces\\1256\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Platforms Jumping",
+    "problem_url": "https://codeforces.com/contest/1256/problem/C",
+    "submission_id": "CF226340555",
+    "submission_url": "https://codeforces.com/contest/1256/submission/226340555",
+    "tags": [
+      "greedy",
+      "*1700"
+    ],
+    "timestamp": "Oct/03/2023 00:28"
+  },
   "CF226640619": {
     "contest_id": 1714,
     "language": "GNU C++17",
