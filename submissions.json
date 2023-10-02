@@ -1,4 +1,21 @@
 {
+  "CF226326147": {
+    "contest_id": 1878,
+    "language": "GNU C++17",
+    "path": "codeforces\\1878\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Reverse Madness",
+    "problem_url": "https://codeforces.com/contest/1878/problem/D",
+    "submission_id": "CF226326147",
+    "submission_url": "https://codeforces.com/contest/1878/submission/226326147",
+    "tags": [
+      "data structures",
+      "greedy",
+      "*1600"
+    ],
+    "timestamp": "Oct/02/2023 22:23"
+  },
   "CF226334396": {
     "contest_id": 1861,
     "language": "GNU C++17",
