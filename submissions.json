@@ -1,4 +1,21 @@
 {
+  "CF226805570": {
+    "contest_id": 1875,
+    "language": "GNU C++17",
+    "path": "codeforces\\1875\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Jellyfish and Undertale",
+    "problem_url": "https://codeforces.com/contest/1875/problem/A",
+    "submission_id": "CF226805570",
+    "submission_url": "https://codeforces.com/contest/1875/submission/226805570",
+    "tags": [
+      "brute force",
+      "greedy",
+      "*900"
+    ],
+    "timestamp": "Oct/06/2023 06:23"
+  },
   "CF226806608": {
     "contest_id": 1875,
     "language": "GNU C++17",
