@@ -1,4 +1,20 @@
 {
+  "CF226814582": {
+    "contest_id": 1875,
+    "language": "GNU C++17",
+    "path": "codeforces\\1875\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Jellyfish and Mex",
+    "problem_url": "https://codeforces.com/contest/1875/problem/D",
+    "submission_id": "CF226814582",
+    "submission_url": "https://codeforces.com/contest/1875/submission/226814582",
+    "tags": [
+      "dp",
+      "*1600"
+    ],
+    "timestamp": "Oct/06/2023 09:34"
+  },
   "CF227120517": {
     "contest_id": 1877,
     "language": "GNU C++17",
