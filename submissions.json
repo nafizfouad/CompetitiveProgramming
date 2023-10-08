@@ -1,4 +1,24 @@
 {
+  "CF227236564": {
+    "contest_id": 1611,
+    "language": "GNU C++17",
+    "path": "codeforces\\1611\\E1.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E1",
+    "problem_name": "Escape The Maze (easy version)",
+    "problem_url": "https://codeforces.com/contest/1611/problem/E1",
+    "submission_id": "CF227236564",
+    "submission_url": "https://codeforces.com/contest/1611/submission/227236564",
+    "tags": [
+      "dfs and similar",
+      "greedy",
+      "shortest paths",
+      "trees",
+      "two pointers",
+      "*1700"
+    ],
+    "timestamp": "Oct/08/2023 23:58"
+  },
   "CF227342561": {
     "contest_id": 1886,
     "language": "GNU C++17",
