@@ -1,4 +1,20 @@
 {
+  "CF227120517": {
+    "contest_id": 1877,
+    "language": "GNU C++17",
+    "path": "codeforces\\1877\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Goals of Victory",
+    "problem_url": "https://codeforces.com/contest/1877/problem/A",
+    "submission_id": "CF227120517",
+    "submission_url": "https://codeforces.com/contest/1877/submission/227120517",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "Oct/08/2023 15:12"
+  },
   "CF227136081": {
     "contest_id": 1877,
     "language": "GNU C++17",
