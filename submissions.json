@@ -1,4 +1,21 @@
 {
+  "CF227168492": {
+    "contest_id": 1877,
+    "language": "GNU C++17",
+    "path": "codeforces\\1877\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Joyboard",
+    "problem_url": "https://codeforces.com/contest/1877/problem/C",
+    "submission_id": "CF227168492",
+    "submission_url": "https://codeforces.com/contest/1877/submission/227168492",
+    "tags": [
+      "math",
+      "number theory",
+      "*1200"
+    ],
+    "timestamp": "Oct/08/2023 16:43"
+  },
   "CF227178938": {
     "contest_id": 1877,
     "language": "GNU C++17",
