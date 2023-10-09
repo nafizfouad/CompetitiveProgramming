@@ -1,4 +1,21 @@
 {
+  "CF227441154": {
+    "contest_id": 1886,
+    "language": "GNU C++17",
+    "path": "codeforces\\1886\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Decreasing String",
+    "problem_url": "https://codeforces.com/contest/1886/problem/C",
+    "submission_id": "CF227441154",
+    "submission_url": "https://codeforces.com/contest/1886/submission/227441154",
+    "tags": [
+      "implementation",
+      "strings",
+      "*1600"
+    ],
+    "timestamp": "Oct/10/2023 00:12"
+  },
   "CF227572475": {
     "contest_id": 489,
     "language": "GNU C++17",
