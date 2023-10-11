@@ -1,4 +1,23 @@
 {
+  "CF227627965": {
+    "contest_id": 1692,
+    "language": "GNU C++17",
+    "path": "codeforces\\1692\\H.cpp",
+    "platform": "Codeforces",
+    "problem_index": "H",
+    "problem_name": "Gambling",
+    "problem_url": "https://codeforces.com/contest/1692/problem/H",
+    "submission_id": "CF227627965",
+    "submission_url": "https://codeforces.com/contest/1692/submission/227627965",
+    "tags": [
+      "data structures",
+      "dp",
+      "greedy",
+      "math",
+      "*1700"
+    ],
+    "timestamp": "Oct/11/2023 12:22"
+  },
   "CF227720068": {
     "contest_id": 1706,
     "language": "GNU C++17",
