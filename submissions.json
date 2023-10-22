@@ -1,4 +1,21 @@
 {
+  "CF229272548": {
+    "contest_id": 1883,
+    "language": "GNU C++17",
+    "path": "codeforces\\1883\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "In Love",
+    "problem_url": "https://codeforces.com/contest/1883/problem/D",
+    "submission_id": "CF229272548",
+    "submission_url": "https://codeforces.com/contest/1883/submission/229272548",
+    "tags": [
+      "data structures",
+      "greedy",
+      "*1500"
+    ],
+    "timestamp": "Oct/22/2023 18:40"
+  },
   "CF229318279": {
     "contest_id": 1883,
     "language": "GNU C++17",
