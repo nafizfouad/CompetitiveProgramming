@@ -1,4 +1,22 @@
 {
+  "CF230244966": {
+    "contest_id": 1890,
+    "language": "GNU C++17",
+    "path": "codeforces\\1890\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Qingshan Loves Strings 2",
+    "problem_url": "https://codeforces.com/contest/1890/problem/C",
+    "submission_id": "CF230244966",
+    "submission_url": "https://codeforces.com/contest/1890/submission/230244966",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "two pointers",
+      "*1300"
+    ],
+    "timestamp": "Oct/28/2023 22:18"
+  },
   "CF230258988": {
     "contest_id": 1890,
     "language": "GNU C++17",
