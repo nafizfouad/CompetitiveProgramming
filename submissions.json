@@ -1,4 +1,21 @@
 {
+  "CF231748545": {
+    "contest_id": 1894,
+    "language": "GNU C++17",
+    "path": "codeforces\\1894\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Secret Sport",
+    "problem_url": "https://codeforces.com/contest/1894/problem/A",
+    "submission_id": "CF231748545",
+    "submission_url": "https://codeforces.com/contest/1894/submission/231748545",
+    "tags": [
+      "implementation",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Nov/07/2023 20:43"
+  },
   "CF231762785": {
     "contest_id": 1894,
     "language": "GNU C++17",
