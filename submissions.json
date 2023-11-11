@@ -1,4 +1,20 @@
 {
+  "AC47503039": {
+    "contest_id": "abc328",
+    "language": "C++ 20 (gcc 12.2)",
+    "path": "atcoder\\abc328\\E.cpp",
+    "platform": "AtCoder",
+    "problem_index": "E",
+    "problem_name": "Modulo MST",
+    "problem_url": "https://atcoder.jp/contests/abc328/tasks/abc328_e",
+    "submission_id": "AC47503039",
+    "submission_url": "https://atcoder.jp/contests/abc328/submissions/47503039",
+    "tags": [
+      "AtCoder",
+      "*475"
+    ],
+    "timestamp": "Nov/11/2023 19:36"
+  },
   "CF100044678": {
     "contest_id": 1455,
     "language": "GNU C++17",
