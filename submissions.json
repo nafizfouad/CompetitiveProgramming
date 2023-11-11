@@ -1,4 +1,20 @@
 {
+  "AC47488163": {
+    "contest_id": "abc328",
+    "language": "C++ 20 (gcc 12.2)",
+    "path": "atcoder\\abc328\\D.cpp",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Take ABC",
+    "problem_url": "https://atcoder.jp/contests/abc328/tasks/abc328_d",
+    "submission_id": "AC47488163",
+    "submission_url": "https://atcoder.jp/contests/abc328/submissions/47488163",
+    "tags": [
+      "AtCoder",
+      "*425"
+    ],
+    "timestamp": "Nov/11/2023 18:52"
+  },
   "AC47503039": {
     "contest_id": "abc328",
     "language": "C++ 20 (gcc 12.2)",
